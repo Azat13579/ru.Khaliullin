@@ -20,7 +20,7 @@ public class Game {
 
         Random rand = new Random();
             n = rand.nextInt(100);
-              System.out.println(n);
+             // System.out.println(n);
 
             System.out.println(" Программа загадало число от 1 до 100! Как думаешь какое оно:");
 
@@ -37,7 +37,7 @@ public class Game {
                                 for (int i = 0; i < 1; i=j) {
                                     Scanner scanner1 = new Scanner(System.in);
                                     n2 = scanner1.nextInt();
-                                    System.out.println(n2);
+                                    //System.out.println(n2);
 
                                          n3=n-n1;  // разница между числом от ПК и первым введенным числом(или вторым присвоенным от n2)
                                          n4=n-n2; // разница между числом от ПК и последующим введенным числом
