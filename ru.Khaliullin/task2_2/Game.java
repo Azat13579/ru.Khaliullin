@@ -20,7 +20,7 @@ public class Game {
 
         Random rand = new Random();
             n = rand.nextInt(100);
-             // System.out.println(n);
+             System.out.println(n);
 
             System.out.println(" Программа загадало число от 1 до 100! Как думаешь какое оно:");
 
@@ -55,13 +55,13 @@ public class Game {
                                             System.out.println("БИНГО!!!");
                                             j = 1;
                                         }
-                                                else if(n4 > n3) { // сравнение разницы введенных пользователем чисел
+                                                else if(n4 > n3 ) { // сравнение разницы введенных пользователем чисел
                                                                    // относительно загаданной ПК
                                                     System.out.println("Холоднее!!!");
                                                     n1=n2;
                                                     j = 0;
 
-                                             }      else if (n4 < n3) {
+                                             }      else if (n4 < n3|| n4 == n3) {
 
                                                      System.out.println("Теплее!!!");
                                                      n1=n2;
