@@ -20,7 +20,7 @@ public class Game {
 
         Random rand = new Random();
             n = rand.nextInt(100);
-             System.out.println(n);
+             //System.out.println(n);
 
             System.out.println(" Программа загадало число от 1 до 100! Как думаешь какое оно:");
 
@@ -34,7 +34,7 @@ public class Game {
                             else {
                             System.out.println("Мимоо! Попробуй ещё разок!");
 
-                                for (int i = 0; i < 1; i=j) {
+                                for (int i = 0; i < 1; i=j){
                                     Scanner scanner1 = new Scanner(System.in);
                                     n2 = scanner1.nextInt();
                                     //System.out.println(n2);
@@ -42,10 +42,10 @@ public class Game {
                                          n3=n-n1;  // разница между числом от ПК и первым введенным числом(или вторым присвоенным от n2)
                                          n4=n-n2; // разница между числом от ПК и последующим введенным числом
 
-                                    if (n3 <0 || n4 <0) { // если число отрицательное,делаем его положительным
-                                        n3=n3*(-1);
-                                        n4=n4*(-1);
-                                    }
+                                    //if (n3 <0 || n4 <0) { // если число отрицательное,делаем его положительным
+                                    //    n3=n3*(-1);
+                                    //    n4=n4*(-1);
+                                    //}
 
 
 
@@ -55,13 +55,13 @@ public class Game {
                                             System.out.println("БИНГО!!!");
                                             j = 1;
                                         }
-                                                else if(n4 > n3 ) { // сравнение разницы введенных пользователем чисел
+                                                else if(Math.abs(n4) > Math.abs(n3) ) { // сравнение разницы введенных пользователем чисел
                                                                    // относительно загаданной ПК
                                                     System.out.println("Холоднее!!!");
                                                     n1=n2;
                                                     j = 0;
 
-                                             }      else if (n4 < n3|| n4 == n3) {
+                                             }      else if (Math.abs(n4) < Math.abs(n3)|| Math.abs(n4) == Math.abs(n3)){
 
                                                      System.out.println("Теплее!!!");
                                                      n1=n2;
