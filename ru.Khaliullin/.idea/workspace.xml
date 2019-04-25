@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dfe39fe-1dad-4093-a91c-67a63f174415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task5/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5/Drinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5/VengingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ru.Khaliullin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ru.Khaliullin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/shop/Logist.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/shop/Logist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/shop_out/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/shop_out/Accountant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/shop_out/SalesDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/shop_out/SalesDepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/task5/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/VengingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/task5/VengingMachine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task5/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="494">
+              <caret line="33" column="68" lean-forward="true" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task5/VengingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+            <state relative-caret-position="-73">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2725#2726#0" expanded="true" />
@@ -324,12 +318,12 @@
       <workItem from="1556047262042" duration="2076000" />
       <workItem from="1556117641731" duration="9606000" />
       <workItem from="1556140082571" duration="1168000" />
-      <workItem from="1556204192537" duration="7663000" />
+      <workItem from="1556204192537" duration="11409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68282000" />
+    <option name="totallyTimeSpent" value="72028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -603,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task5/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="494">
+          <caret line="33" column="68" lean-forward="true" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -613,8 +607,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task5/VengingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        <state relative-caret-position="-73">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2725#2726#0" expanded="true" />

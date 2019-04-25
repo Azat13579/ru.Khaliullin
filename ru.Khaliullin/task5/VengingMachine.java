@@ -28,14 +28,22 @@ public class VengingMachine {
 
     public double giveMeADrink(int userСhoice, int userMoney){
 
-        System.out.println("Вы выбрали " + this.drink[userСhoice-1].Drink + "!");
-        System.out.println(" ");
-        System.out.println(this.drink[userСhoice-1].price);
-        System.out.println(" ");
-        int x =this.drink[userСhoice-1].price;
 
         for (int i = 0; i <=1 ; i++) {
-            if (x > userMoney){
+            if (0 > (userСhoice-1) || (userСhoice-1)> 4){
+                System.out.println("Вы выбрали номер напитка не доступный на данный момент!Попробуйте еще раз!");
+                Scanner scanner1 = new Scanner(System.in);
+                int userMoneyN = scanner1.nextInt();
+                userСhoice = userMoneyN;
+                i = 0;
+            } else{
+                i = 1;
+            }
+        }
+        System.out.println("Вы выбрали " + this.drink[userСhoice-1].Drink + "!");
+
+        for (int i = 0; i <=1 ; i++) {
+            if (this.drink[userСhoice-1].price > userMoney){
                 System.out.println("У вас на счету " + userMoney + " руб." +
                         " Для приобретения напитка внесите еще денег!");
                 Scanner scanner1 = new Scanner(System.in);
