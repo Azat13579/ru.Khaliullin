@@ -1,4 +1,6 @@
-package task4.shop;
+package task4.shop_out;
+
+import task4.shop.Person;
 
 public class Accountant extends Person {
     private String[ ] subordinateList;
@@ -6,8 +8,8 @@ public class Accountant extends Person {
     private int salary;
     private String[ ] taxpayerIdentificationNumberList;
 
-    public Accountant(String firstName, String lastName, int identificationNumber, String position) {
-        super(firstName, lastName, identificationNumber, position);
+    public Accountant(String firstName, String lastName, int identificationNumber) {
+        super(firstName, lastName, identificationNumber);
     }
 
     public String[] getSubordinateList() {

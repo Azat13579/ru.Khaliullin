@@ -39,5 +39,12 @@ public class Logist extends Person {
         this.salary = salary;
     }
 
-
+    @Override
+    public String toString() {
+        return "Logist{" + super.toString() +
+                "subordinateList='" + subordinateList + '\'' +
+                ", responsibility='" + responsibility + '\'' +
+                ", salary=" + salary +
+                "} " ;
+    }
 }

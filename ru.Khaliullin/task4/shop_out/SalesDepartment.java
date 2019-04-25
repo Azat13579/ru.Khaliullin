@@ -1,6 +1,4 @@
-package task4.shop;
-
-import task4.shop.Cashier;
+package task4.shop_out;
 
 import java.util.Arrays;
 
