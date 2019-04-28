@@ -2,7 +2,6 @@ package task6.task6_2;
 
 public class Calculator {
     public static void main(String[] args) {
-        PlayWithFinal add = new  PlayWithFinal();
         int X=5;
         int Y=9;
         int z = add(X,Y);
