@@ -2,14 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dfe39fe-1dad-4093-a91c-67a63f174415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task5/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5/Drinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5/VengingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6/PlayWithFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6/task6_2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6/task6_3/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6/task6_4/Act.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6/task6_4/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6/task6_4/Conversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/Birds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/CanRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/CanSwim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/Flyeble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_1_2/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7_3/Man.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ru.Khaliullin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ru.Khaliullin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/shop/Logist.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/shop/Logist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/shop_out/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/shop_out/Accountant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/shop_out/SalesDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/shop_out/SalesDepartment.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,38 +37,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task5/App.java">
+        <entry file="file://$PROJECT_DIR$/task7_3/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task5/VengingMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task5/Drinks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-              <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -66,8 +51,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,35 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/task3/MathCalc2.java" />
-        <option value="$PROJECT_DIR$/task3/NumberIdentification.java" />
-        <option value="$PROJECT_DIR$/task3/MultiplicationTable.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/task3/ComparingTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/task3/ArithmeticAndGeometricProgression.java" />
-        <option value="$PROJECT_DIR$/task4/shop/product/cabinets.java" />
-        <option value="$PROJECT_DIR$/task4/shop/operatingStaff/cashier.java" />
-        <option value="$PROJECT_DIR$/task4/shop/product/Сabinets.java" />
-        <option value="$PROJECT_DIR$/task4/shop/operatingStaff/Сashier.java" />
-        <option value="$PROJECT_DIR$/task4/shop/operatingStaff/Logist.java" />
-        <option value="$PROJECT_DIR$/task4/shop/managingDirector/HeadOfSalesDepartment.java" />
-        <option value="$PROJECT_DIR$/task4/shop/managingDirector/DirectorOfLogistics.java" />
-        <option value="$PROJECT_DIR$/task4/shop/operatingStaff/CashierAdministrator.java" />
-        <option value="$PROJECT_DIR$/task4/shop/CashierAdministrator.java" />
-        <option value="$PROJECT_DIR$/task4/shop/managingDirector/Director.java" />
-        <option value="$PROJECT_DIR$/task4/shop/managementStaff/Logist.java" />
-        <option value="$PROJECT_DIR$/task4/shop/consumers.java" />
-        <option value="$PROJECT_DIR$/task4/shop/managementStaff/Accountant.java" />
-        <option value="$PROJECT_DIR$/task4/customers/consumers.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/Person.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/WorkingStaff.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/Сashier.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/Director.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/SalesDepartment.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/LogisticsDepartment.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/Accountant.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/CountingRoomDepartment.java" />
-        <option value="$PROJECT_DIR$/task4/shop_2/Departments.java" />
         <option value="$PROJECT_DIR$/task4/WorkShop.java" />
         <option value="$PROJECT_DIR$/task4/shop/CountingRoomDepartment.java" />
         <option value="$PROJECT_DIR$/task4/shop/Director.java" />
@@ -128,6 +85,35 @@
         <option value="$PROJECT_DIR$/task5/Drinks.java" />
         <option value="$PROJECT_DIR$/task5/App.java" />
         <option value="$PROJECT_DIR$/task5/VengingMachine.java" />
+        <option value="$PROJECT_DIR$/task6/PlayWithFinal.java" />
+        <option value="$PROJECT_DIR$/task6/Calculator.java" />
+        <option value="$PROJECT_DIR$/task6/Counter.java" />
+        <option value="$PROJECT_DIR$/task6/Contract.java" />
+        <option value="$PROJECT_DIR$/task6/Conversions.java" />
+        <option value="$PROJECT_DIR$/task6/task6_3/Counter.java" />
+        <option value="$PROJECT_DIR$/task6/task6_4/Act.java" />
+        <option value="$PROJECT_DIR$/task6/task6_4/Contract.java" />
+        <option value="$PROJECT_DIR$/task6/task6_4/Conversions.java" />
+        <option value="$PROJECT_DIR$/task7_1/Flyeble.java" />
+        <option value="$PROJECT_DIR$/task7_1/CanSwim.java" />
+        <option value="$PROJECT_DIR$/task7_1/Birds.java" />
+        <option value="$PROJECT_DIR$/task7_1/Duck.java" />
+        <option value="$PROJECT_DIR$/task7_1/Mammals.java" />
+        <option value="$PROJECT_DIR$/task7_1/Dog.java" />
+        <option value="$PROJECT_DIR$/task7_1/CanRun.java" />
+        <option value="$PROJECT_DIR$/task7_1/Animal.java" />
+        <option value="$PROJECT_DIR$/task7_1/Cat.java" />
+        <option value="$PROJECT_DIR$/task7_1/App.java" />
+        <option value="$PROJECT_DIR$/task7_1_2/CanSwim.java" />
+        <option value="$PROJECT_DIR$/task7_3/Human.java" />
+        <option value="$PROJECT_DIR$/task7_1_2/CanRun.java" />
+        <option value="$PROJECT_DIR$/task7_1_2/Animal.java" />
+        <option value="$PROJECT_DIR$/task7_1_2/App.java" />
+        <option value="$PROJECT_DIR$/task7_1_2/Cat.java" />
+        <option value="$PROJECT_DIR$/task7_1_2/Dog.java" />
+        <option value="$PROJECT_DIR$/task7_1_2/Duck.java" />
+        <option value="$PROJECT_DIR$/task7_3/Man.java" />
+        <option value="$PROJECT_DIR$/task7_3/App.java" />
       </list>
     </option>
   </component>
@@ -149,6 +135,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,18 +146,17 @@
             <path>
               <item name="ru.Khaliullin" type="b2602c69:ProjectViewProjectNode" />
               <item name="ru.Khaliullin" type="462c0819:PsiDirectoryNode" />
-              <item name="task2_2" type="462c0819:PsiDirectoryNode" />
+              <item name="task7_1_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ru.Khaliullin" type="b2602c69:ProjectViewProjectNode" />
               <item name="ru.Khaliullin" type="462c0819:PsiDirectoryNode" />
-              <item name="task5" type="462c0819:PsiDirectoryNode" />
+              <item name="task7_3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,11 +174,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="task4.shop" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="task4.shop_2" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task4.shop_2" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="task4.shop" />
@@ -210,13 +196,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task5.App" />
+      <option name="MAIN_CLASS_NAME" value="task7_1_2.App" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task5.*" />
+          <option name="PATTERN" value="task7_1_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArithmeticAndGeometricProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.ArithmeticAndGeometricProgression" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6.task6_2.Calculator" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task6.task6_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparingTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.ComparingTwoNumbers" />
+    <configuration name="Conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6.task6_4.Conversions" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task6.task6_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.MultiplicationTable" />
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6.task6_3.Counter" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task6.task6_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task4.shop.WorkShop" />
+    <configuration name="PlayWithFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6.PlayWithFinal" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task4.shop_out.*" />
+          <option name="PATTERN" value="task6.task6_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.WorkShop" />
-        <item itemvalue="Application.ArithmeticAndGeometricProgression" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.ComparingTwoNumbers" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.Conversions" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.PlayWithFinal" />
       </list>
     </recent_temporary>
   </component>
@@ -314,18 +300,23 @@
       <workItem from="1556047262042" duration="2076000" />
       <workItem from="1556117641731" duration="9606000" />
       <workItem from="1556140082571" duration="1168000" />
-      <workItem from="1556204192537" duration="334000" />
+      <workItem from="1556204192537" duration="11888000" />
+      <workItem from="1556290615379" duration="573000" />
+      <workItem from="1556342399724" duration="4288000" />
+      <workItem from="1556364959214" duration="2886000" />
+      <workItem from="1556396000310" duration="2441000" />
+      <workItem from="1556438039101" duration="6699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60953000" />
+    <option name="totallyTimeSpent" value="89394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2295302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,7 +335,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
@@ -356,7 +347,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22281879" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +356,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,21 +382,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task1/GasolinePrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task3/math.java" />
-    <entry file="file://$PROJECT_DIR$/task2_1/GasolinePrice2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -437,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task3/ArithmeticAndGeometricProgression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task4/shop/managingDirector/HeadOfSalesDepartment.java" />
     <entry file="file://$PROJECT_DIR$/task4/shop/product/Сabinets.java" />
     <entry file="file://$PROJECT_DIR$/task4/shop/CashierAdministrator.java" />
@@ -462,19 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,10 +527,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task2_2/Game.java">
+    <entry file="file://$PROJECT_DIR$/task6/PlayWithFinal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="43" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task6/task6_2/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task5/VengingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -582,32 +553,223 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task5/Drinks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task5/VengingMachine.java">
+    <entry file="file://$PROJECT_DIR$/task3/ArithmeticAndGeometricProgression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task2_2/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="27" column="43" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="27" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task2_1/GasolinePrice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task6/task6_3/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task6/task6_4/Conversions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task6/task6_4/Act.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task6/task6_4/Contract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task5/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        <state relative-caret-position="177">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/Flyeble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/Mammals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/Birds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="76" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/CanRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_3/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/CanSwim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_3/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="80" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_1_2/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7_3/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>

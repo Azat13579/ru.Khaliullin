@@ -1,4 +1,4 @@
-package task7_1;
+package task7_1_2;
 
 public class Duck extends Birds implements CanSwim{
     public void getName(){
@@ -19,5 +19,20 @@ public class Duck extends Birds implements CanSwim{
     @Override
     public void swim() {
         System.out.println("Еще я умею плавать!");
+    }
+
+    @Override
+    public void swimToJog() {
+        System.out.println("Я так не умею!Но знаю, что так умеет человек!");
+    }
+
+    @Override
+    public void swimUnderwater() {
+        System.out.println("Я так не умею!Но знаю, что так умеет человек!");
+    }
+
+    @Override
+    public void jogging() {
+        System.out.println("Я так не умею!Но знаю, что так умеет человек!");
     }
 }

@@ -1,4 +1,4 @@
-package task7_1;
+package task7_1_2;
 
 public abstract class Birds extends Animal implements Flyeble{
     @Override

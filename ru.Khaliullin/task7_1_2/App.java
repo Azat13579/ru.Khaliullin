@@ -1,4 +1,4 @@
-package task7_1;
+package task7_1_2;
 
 public class App {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class App {
         duck.fly();
         cat.getName();
         dog.getName();
-        duck.Run();
+        duck.run();
 
         cat.setName("Cat");
         dog.setName("Dog");

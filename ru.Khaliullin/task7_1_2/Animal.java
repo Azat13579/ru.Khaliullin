@@ -1,4 +1,4 @@
-package task7_1;
+package task7_1_2;
 
 public abstract class Animal implements CanRun {
    String  name;
@@ -17,7 +17,7 @@ public abstract class Animal implements CanRun {
     }
 
     @Override
-    public void Run() {
+    public void run() {
         System.out.println("Я могу бежать!");
     }
 }

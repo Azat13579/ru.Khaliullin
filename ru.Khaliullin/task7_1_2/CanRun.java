@@ -1,5 +1,6 @@
-package task7_1;
+package task7_1_2;
 
 public interface CanRun {
-    void Run();
+    void run();
+    void jogging();
 }

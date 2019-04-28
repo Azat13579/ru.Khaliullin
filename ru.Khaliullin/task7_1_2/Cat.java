@@ -1,4 +1,4 @@
-package task7_1;
+package task7_1_2;
 
 public class Cat extends Mammals{
 
@@ -12,8 +12,23 @@ public class Cat extends Mammals{
     }
 
     @Override
-    public void Run() {
+    public void swimToJog() {
+        System.out.println("Я так не умею!Но знаю, что так умеет человечешка!");
+    }
+
+    @Override
+    public void swimUnderwater() {
+        System.out.println(" Я так не умею!Но знаю, что так умеет человечешка!");
+    }
+
+    @Override
+    public void run() {
             System.out.println("Я могу бежать как пантера!");
+    }
+
+    @Override
+    public void jogging() {
+        System.out.println("Я так не умею!Но знаю, что так умеет человечешка!");
     }
 
     @Override

@@ -1,4 +1,4 @@
-package task7_1;
+package task7_1_2;
 
 public abstract class Mammals extends Animal implements CanSwim {
 
