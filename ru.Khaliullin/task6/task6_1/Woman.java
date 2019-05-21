@@ -7,10 +7,10 @@ public class Woman extends Human1 {
         return super.getxX();
     }
 
-    public static void setX(Integer x) {
+    /*public static void setX(Integer x) {
         x = 14;
         Human1.x = x;
     }
     public Woman() {
-    }
+    }*/
 }
