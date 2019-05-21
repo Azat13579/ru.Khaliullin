@@ -42,28 +42,31 @@ public class RecursionTestFileAndPathTwo {
 
         File dir = new File("D:" + s + "Обучение" + s + "IdeaProjects" + s + "ru" + s + "task15_2"
                 + s + "dir");
-        recursivePass(dir);
+        int n = 1;
+        recursivePass(dir, n);
 
 
 
     }
 
-    private static void recursivePass(File dir) {
+    private static void recursivePass(File dir, int n) {
         File[] files = dir.listFiles();
 
         for (File file : files) {
             if (file.isFile()) {
                 //file.delete();
-                System.out.println("файл <" + file + ">");
+                int i = n+1;
+                System.out.println("файл <" + file + "> уровня <" + i + ">");
 
 
             } else {
-                // каталог
-                recursivePass(file);
+                //
+                System.out.println("каталог <" + dir + "> уровня <" + n + ">");
+                recursivePass(file, n+1);
 
             }
         }
         //dir.delete();
-        System.out.println("каталог <" + dir + ">");
+        //System.out.println("каталог <" + dir + ">");
     }
 }
