@@ -11,7 +11,7 @@ public class Woman extends Human {
         System.out.println("Я плаваю!");
     }
 
-    @Override
+    /*@Override
     public void swimToJog() {
         super.swimToJog();
     }
@@ -24,5 +24,5 @@ public class Woman extends Human {
     @Override
     public void jogging() {
         super.jogging();
-    }
+    }*/
 }

@@ -2,27 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dfe39fe-1dad-4093-a91c-67a63f174415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task6/PlayWithFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6/task6_2/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6/task6_3/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6/task6_4/Act.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6/task6_4/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6/task6_4/Conversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/Birds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/CanRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/CanSwim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/Flyeble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_1_2/Mammals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_3/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7_3/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/Use.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../recources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recources/log4jV2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../recources/log4jV2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modification/task5_M/AppM.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modification/task5_M/AppM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modification/task6_2M/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modification/task6_2M/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modification/task6_2M/CalculatorIntM.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modification/task6_2M/CalculatorIntM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modification/task6_2M/CalculatorM.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modification/task6_2M/CalculatorM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ru.Khaliullin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ru.Khaliullin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ru.Khaliullin/ru.Khaliullin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ru.Khaliullin/ru.Khaliullin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru.Khaliullin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ru.Khaliullin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchForTruth/truth1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/searchForTruth/truth1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchForTruth/truth2/BigFileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/searchForTruth/truth2/BigFileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/Censor.java" beforeDir="false" afterPath="$PROJECT_DIR$/task11/Censor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task12/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/task12/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task13/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/task13/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task14/AppAddLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/task14/AppAddLogging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/task5/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7_3/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/task7_3/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task8/board.java" beforeDir="false" afterPath="$PROJECT_DIR$/task8/board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ru.khaliullin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ru.khaliullin.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,10 +39,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task7_3/App.java">
+        <entry file="file://$PROJECT_DIR$/task17/Use.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="289">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -51,8 +53,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="Enum" />
+        <option value="JavaFXApplication" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -63,57 +66,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/task4/WorkShop.java" />
-        <option value="$PROJECT_DIR$/task4/shop/CountingRoomDepartment.java" />
-        <option value="$PROJECT_DIR$/task4/shop/Director.java" />
-        <option value="$PROJECT_DIR$/task4/shop/Accountant.java" />
-        <option value="$PROJECT_DIR$/task4/shop/SalesDepartment.java" />
-        <option value="$PROJECT_DIR$/task4/shop/Сashier.java" />
-        <option value="$PROJECT_DIR$/task4/shop/Cashier.java" />
-        <option value="$PROJECT_DIR$/task4/shop/Departments.java" />
-        <option value="$PROJECT_DIR$/task4/shop/LogisticsDepartment.java" />
-        <option value="$PROJECT_DIR$/task4/shop/LogistTest.java" />
-        <option value="$PROJECT_DIR$/task4/shop/Person.java" />
-        <option value="$PROJECT_DIR$/task4/shop_out/Accountant.java" />
-        <option value="$PROJECT_DIR$/task4/shop_out/Cashier.java" />
-        <option value="$PROJECT_DIR$/task4/shop_out/Director.java" />
-        <option value="$PROJECT_DIR$/task4/shop/WorkShop.java" />
-        <option value="$PROJECT_DIR$/task4/shop/WorkingStaff.java" />
         <option value="$PROJECT_DIR$/task4/shop/Logist.java" />
-        <option value="$PROJECT_DIR$/task5/HotDrinks.java" />
-        <option value="$PROJECT_DIR$/task5/App.kt" />
-        <option value="$PROJECT_DIR$/task5/Drinks.java" />
+        <option value="$PROJECT_DIR$/task4/shop/Departments.java" />
+        <option value="$PROJECT_DIR$/task4_M/shopM/WorkingStaffM.java" />
+        <option value="$PROJECT_DIR$/task4_M/shopM/DepartmentsM.java" />
+        <option value="$PROJECT_DIR$/task4_M/shopM/PersonM.java" />
+        <option value="$PROJECT_DIR$/task4_M/shopM/LogistM.java" />
+        <option value="$PROJECT_DIR$/Modification/shopM/WorkShopM.java" />
+        <option value="$PROJECT_DIR$/task4_M/shopM/WorkShopM.java" />
+        <option value="$PROJECT_DIR$/task4/shop/LogisticsDepartment.java" />
+        <option value="$PROJECT_DIR$/Modification/task4_M/shopM/DepartmentsM.java" />
+        <option value="$PROJECT_DIR$/Modification/task4_M/shopM/Department.java" />
+        <option value="$PROJECT_DIR$/Modification/task4_M/shopM/PersonM.java" />
+        <option value="$PROJECT_DIR$/Modification/task4_M/shopM/LogistM.java" />
+        <option value="$PROJECT_DIR$/Modification/task4_M/shopM/WorkingStaffM.java" />
+        <option value="$PROJECT_DIR$/Modification/task5_M/DrinksM.java" />
         <option value="$PROJECT_DIR$/task5/App.java" />
-        <option value="$PROJECT_DIR$/task5/VengingMachine.java" />
-        <option value="$PROJECT_DIR$/task6/PlayWithFinal.java" />
-        <option value="$PROJECT_DIR$/task6/Calculator.java" />
-        <option value="$PROJECT_DIR$/task6/Counter.java" />
-        <option value="$PROJECT_DIR$/task6/Contract.java" />
-        <option value="$PROJECT_DIR$/task6/Conversions.java" />
-        <option value="$PROJECT_DIR$/task6/task6_3/Counter.java" />
-        <option value="$PROJECT_DIR$/task6/task6_4/Act.java" />
-        <option value="$PROJECT_DIR$/task6/task6_4/Contract.java" />
-        <option value="$PROJECT_DIR$/task6/task6_4/Conversions.java" />
-        <option value="$PROJECT_DIR$/task7_1/Flyeble.java" />
-        <option value="$PROJECT_DIR$/task7_1/CanSwim.java" />
-        <option value="$PROJECT_DIR$/task7_1/Birds.java" />
-        <option value="$PROJECT_DIR$/task7_1/Duck.java" />
-        <option value="$PROJECT_DIR$/task7_1/Mammals.java" />
-        <option value="$PROJECT_DIR$/task7_1/Dog.java" />
-        <option value="$PROJECT_DIR$/task7_1/CanRun.java" />
-        <option value="$PROJECT_DIR$/task7_1/Animal.java" />
-        <option value="$PROJECT_DIR$/task7_1/Cat.java" />
-        <option value="$PROJECT_DIR$/task7_1/App.java" />
-        <option value="$PROJECT_DIR$/task7_1_2/CanSwim.java" />
-        <option value="$PROJECT_DIR$/task7_3/Human.java" />
-        <option value="$PROJECT_DIR$/task7_1_2/CanRun.java" />
-        <option value="$PROJECT_DIR$/task7_1_2/Animal.java" />
-        <option value="$PROJECT_DIR$/task7_1_2/App.java" />
-        <option value="$PROJECT_DIR$/task7_1_2/Cat.java" />
-        <option value="$PROJECT_DIR$/task7_1_2/Dog.java" />
-        <option value="$PROJECT_DIR$/task7_1_2/Duck.java" />
-        <option value="$PROJECT_DIR$/task7_3/Man.java" />
-        <option value="$PROJECT_DIR$/task7_3/App.java" />
+        <option value="$PROJECT_DIR$/Modification/task5_M/VengingMachineM.java" />
+        <option value="$PROJECT_DIR$/task6/task6_2/Calculator.java" />
+        <option value="$PROJECT_DIR$/Modification/task4_M/shopM/WorkShopM.java" />
+        <option value="$PROJECT_DIR$/Modification/task4_M/shopM/LogisticsDepartmentM.java" />
+        <option value="$PROJECT_DIR$/Modification/task6_2M/CalculatorDoubleM.java" />
+        <option value="$PROJECT_DIR$/task8/board.java" />
+        <option value="$PROJECT_DIR$/task12/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/Modification/task6_2M/CalculatorIntM.java" />
+        <option value="$PROJECT_DIR$/Modification/task6_2M/CalculatorM.java" />
+        <option value="$PROJECT_DIR$/Modification/task6_2M/App.java" />
+        <option value="$PROJECT_DIR$/searchForTruth/truth1/App.java" />
+        <option value="$PROJECT_DIR$/task13_1/App.java" />
+        <option value="$PROJECT_DIR$/task13_1/Mother.java" />
+        <option value="$PROJECT_DIR$/task13_1/Foods.java" />
+        <option value="$PROJECT_DIR$/task13_1/Child.java" />
+        <option value="$PROJECT_DIR$/task13/Foods.java" />
+        <option value="$PROJECT_DIR$/task13/HateFoodException.java" />
+        <option value="$PROJECT_DIR$/task13/Mother.java" />
+        <option value="$PROJECT_DIR$/task13/Child.java" />
+        <option value="$PROJECT_DIR$/task13/App.java" />
+        <option value="$PROJECT_DIR$/task13/HateSomeFoodException.java" />
+        <option value="$PROJECT_DIR$/task14/DrinksAddLog.java" />
+        <option value="$PROJECT_DIR$/Modification/task5_M/AppM.java" />
+        <option value="$PROJECT_DIR$/task14/VengingMachineAddLog.java" />
+        <option value="$PROJECT_DIR$/log4j.properties" />
+        <option value="$PROJECT_DIR$/task14/AppAddLog.java" />
+        <option value="$PROJECT_DIR$/task14/logging.properties" />
+        <option value="$PROJECT_DIR$/task13/log4j.properties" />
+        <option value="$PROJECT_DIR$/task14/AppAddLogging.java" />
+        <option value="$PROJECT_DIR$/task11/Censor.java" />
+        <option value="$PROJECT_DIR$/searchForTruth/truth2/BigFileDemo.java" />
+        <option value="$PROJECT_DIR$/task17/Book.java" />
+        <option value="$PROJECT_DIR$/task17/library.java" />
+        <option value="$PROJECT_DIR$/task17/Library.java" />
+        <option value="$PROJECT_DIR$/task17/Use.java" />
       </list>
     </option>
   </component>
@@ -123,8 +126,7 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="235" />
-    <option name="y" value="40" />
+    <option name="x" value="325" />
     <option name="width" value="1275" />
     <option name="height" value="980" />
   </component>
@@ -134,8 +136,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,12 +148,7 @@
             <path>
               <item name="ru.Khaliullin" type="b2602c69:ProjectViewProjectNode" />
               <item name="ru.Khaliullin" type="462c0819:PsiDirectoryNode" />
-              <item name="task7_1_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ru.Khaliullin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ru.Khaliullin" type="462c0819:PsiDirectoryNode" />
-              <item name="task7_3" type="462c0819:PsiDirectoryNode" />
+              <item name="task17" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,18 +157,30 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task4_M" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="task4.shop" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
       <recent name="task4.shop" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -180,8 +189,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="task4.shop_2" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="task4.shop" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Обучение\IdeaProjects2test\ru.Khaliullin\ru.Khaliullin\task4_M" />
+      <recent name="D:\Обучение\IdeaProjects2test\ru.Khaliullin\ru.Khaliullin\task6\task6_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,13 +206,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task7_1_2.App" />
+  <component name="RunManager" selected="Application.Use">
+    <configuration name="BigFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchForTruth.truth2.BigFileDemo" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task7_1_2.*" />
+          <option name="PATTERN" value="searchForTruth.truth2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,25 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task6.task6_2.Calculator" />
+    <configuration name="Censor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task11.Censor" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task6.task6_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task6.task6_4.Conversions" />
-      <module name="ru.Khaliullin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task6.task6_4.*" />
+          <option name="PATTERN" value="task11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,7 +238,7 @@
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task6.task6_2.*" />
+          <option name="PATTERN" value="task6.task6_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayWithFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task6.PlayWithFinal" />
+    <configuration name="RecursionTestFileAndPathTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task15.RecursionTestFileAndPathTwo" />
       <module name="ru.Khaliullin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task6.task6_2.*" />
+          <option name="PATTERN" value="task15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,13 +259,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Use" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task17.Use" />
+      <module name="ru.Khaliullin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RecursionTestFileAndPathTwo" />
+      <item itemvalue="Application.Counter" />
+      <item itemvalue="Application.Censor" />
+      <item itemvalue="Application.BigFileDemo" />
+      <item itemvalue="Application.Use" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.Conversions" />
+        <item itemvalue="Application.Use" />
+        <item itemvalue="Application.BigFileDemo" />
+        <item itemvalue="Application.Censor" />
         <item itemvalue="Application.Counter" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.PlayWithFinal" />
+        <item itemvalue="Application.RecursionTestFileAndPathTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -305,18 +322,70 @@
       <workItem from="1556342399724" duration="4288000" />
       <workItem from="1556364959214" duration="2886000" />
       <workItem from="1556396000310" duration="2441000" />
-      <workItem from="1556438039101" duration="6699000" />
+      <workItem from="1556438039101" duration="7486000" />
+      <workItem from="1556477268933" duration="1716000" />
+      <workItem from="1556547570304" duration="5115000" />
+      <workItem from="1556654751766" duration="600000" />
+      <workItem from="1556692905088" duration="16554000" />
+      <workItem from="1556742214253" duration="2166000" />
+      <workItem from="1556778223550" duration="2629000" />
+      <workItem from="1556865732004" duration="2558000" />
+      <workItem from="1556885103017" duration="2706000" />
+      <workItem from="1556913103606" duration="5988000" />
+      <workItem from="1556949202497" duration="9009000" />
+      <workItem from="1557083602993" duration="301000" />
+      <workItem from="1557163233225" duration="616000" />
+      <workItem from="1557319983467" duration="1628000" />
+      <workItem from="1557394236166" duration="2486000" />
+      <workItem from="1557396756340" duration="180000" />
+      <workItem from="1557520355546" duration="1994000" />
+      <workItem from="1557564112255" duration="9905000" />
+      <workItem from="1557611253394" duration="2698000" />
+      <workItem from="1557662875009" duration="3881000" />
+      <workItem from="1557759429301" duration="1198000" />
+      <workItem from="1557954336302" duration="630000" />
+      <workItem from="1558022875644" duration="1687000" />
+      <workItem from="1558063445233" duration="360000" />
+      <workItem from="1558099422037" duration="31000" />
+      <workItem from="1558099513923" duration="643000" />
+      <workItem from="1558100315321" duration="5176000" />
+      <workItem from="1558123512342" duration="1263000" />
+      <workItem from="1558181585251" duration="3761000" />
+      <workItem from="1558189485180" duration="2201000" />
+      <workItem from="1558191721079" duration="676000" />
+      <workItem from="1558192401235" duration="246000" />
+      <workItem from="1558194005805" duration="48000" />
+      <workItem from="1558363778104" duration="6000" />
+      <workItem from="1558365207235" duration="155000" />
+      <workItem from="1558365406095" duration="823000" />
+      <workItem from="1558366243901" duration="3000" />
+      <workItem from="1558449272378" duration="369000" />
+      <workItem from="1558462756176" duration="1347000" />
+      <workItem from="1558536877097" duration="2920000" />
+      <workItem from="1558626279393" duration="2871000" />
+      <workItem from="1558703676495" duration="2641000" />
+      <workItem from="1558779669062" duration="1217000" />
+      <workItem from="1558851221615" duration="1423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89394000" />
+    <option name="totallyTimeSpent" value="194606000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19261745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,17 +394,18 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.33286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013423" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicates" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
@@ -347,7 +417,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24832214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,17 +426,18 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013423" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicates" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
@@ -381,404 +452,401 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/task6/task6_1/App.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task3/math.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/task6/task6_1/Human1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/ComparingTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/NumberIdentification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        <state relative-caret-position="136">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task3/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop/managingDirector/HeadOfSalesDepartment.java" />
-    <entry file="file://$PROJECT_DIR$/task4/shop/product/Сabinets.java" />
-    <entry file="file://$PROJECT_DIR$/task4/shop/CashierAdministrator.java" />
-    <entry file="file://$PROJECT_DIR$/task4/shop_2/Accountant.java" />
-    <entry file="file://$PROJECT_DIR$/task4/customers/consumers.java" />
-    <entry file="file://$PROJECT_DIR$/task4/shop/Сashier.java" />
-    <entry file="file://$PROJECT_DIR$/task4/shop/LogistTest.java" />
-    <entry file="file://$PROJECT_DIR$/task4/shop_out/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop_out/SalesDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop/WorkingStaff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop/LogisticsDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop_out/Cashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop_out/CountingRoomDepartment.java">
+    <entry file="file://$PROJECT_DIR$/task1/GasolinePrice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop_out/Accountant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task5/HotDrinks.java" />
-    <entry file="file://$PROJECT_DIR$/task4/shop/Departments.java">
+    <entry file="file://$PROJECT_DIR$/task1/SecConvH.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="24" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop/WorkShop.java">
+    <entry file="file://$PROJECT_DIR$/task1/Wage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task4/shop/Logist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task6/PlayWithFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task6/task6_2/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/task2_1/GasolinePrice2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task5/VengingMachine.java">
+    <entry file="file://$PROJECT_DIR$/task2_1/Wage2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task5/Drinks.java">
+    <entry file="file://$PROJECT_DIR$/task2_1/SecConvH2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/ArithmeticAndGeometricProgression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task2_2/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="27" column="43" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="1156">
+          <caret line="69" column="37" selection-start-line="53" selection-start-column="35" selection-end-line="69" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task13/App.class" />
+    <entry file="file://$PROJECT_DIR$/task13/Mother.class" />
+    <entry file="file://$PROJECT_DIR$/task13/Foods.class" />
+    <entry file="file://$PROJECT_DIR$/task13/Child.class" />
+    <entry file="file://$PROJECT_DIR$/task12/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task2_1/GasolinePrice2.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="863" column="18" selection-start-line="863" selection-start-column="18" selection-end-line="863" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task5/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task13/Foods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task13/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task13/Mother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task13/HateSomeFoodException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modification/task5_M/DrinksM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="3" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modification/task5_M/VengingMachineM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="126" selection-start-line="6" selection-start-column="4" selection-end-line="147" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4125#4126#0" expanded="true" />
+            <element signature="e#4153#4154#0" expanded="true" />
+            <element signature="e#4198#4199#0" expanded="true" />
+            <element signature="e#4232#4233#0" expanded="true" />
+            <element signature="e#4261#4262#0" expanded="true" />
+            <element signature="e#4289#4290#0" expanded="true" />
+            <element signature="e#4328#4329#0" expanded="true" />
+            <element signature="e#4362#4363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modification/task5_M/AppM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task14/DrinksAddLog.java" />
+    <entry file="file://$PROJECT_DIR$/log4j.txt" />
+    <entry file="file://$PROJECT_DIR$/ru.Khaliullin.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/task14/AppAddLog.java" />
+    <entry file="file://$PROJECT_DIR$/log4j4.txt" />
+    <entry file="file://$PROJECT_DIR$/task14/VengingMachineAddLog.java" />
+    <entry file="file://$PROJECT_DIR$/task14/logging.properties" />
+    <entry file="file://$PROJECT_DIR$/AppAddLogging.txt.1" />
+    <entry file="file://$PROJECT_DIR$/AppAddLogging.txt" />
+    <entry file="file://$PROJECT_DIR$/task15/TestsWithFileAndPathOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task13/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/task13/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task14/AppAddLogging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task11/Censor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task6/task6_3/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/searchForTruth/truth1/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task6/task6_4/Conversions.java">
+    <entry file="file://$PROJECT_DIR$/searchForTruth/truth2/BigFileDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="403">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task6/task6_4/Act.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        <state relative-caret-position="545">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task15/RecursionTestFileAndPathTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task6/task6_4/Contract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task5/App.java">
+    <entry file="file://$PROJECT_DIR$/task17/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-5">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/Flyeble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/Mammals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/Birds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="76" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="76" />
-          <folding>
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/CanRun.java">
+    <entry file="file://$PROJECT_DIR$/task6/task6_4/Act.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task7_3/Man.java">
+    <entry file="file://$PROJECT_DIR$/../../../IdeaProjectsV3/lesson18/lesson18/src/ru/stc/serialize/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="374">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task6/task6_4/Conversions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task17/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/CanSwim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_3/Human.java">
+    <entry file="file://$PROJECT_DIR$/../../../IdeaProjectsV3/lesson18/lesson18/src/ru/stc/serialize/DemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/Cat.java">
+    <entry file="file://$PROJECT_DIR$/task17/Use.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="80" />
-          <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_1_2/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7_3/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="289">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ru.Khaliullin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>log4j:log4j:1.2.17</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

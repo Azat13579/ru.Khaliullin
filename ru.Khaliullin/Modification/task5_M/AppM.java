@@ -1,8 +1,8 @@
 package Modification.task5_M;
 
+import static jdk.nashorn.internal.objects.NativeString.toUpperCase;
 import java.util.Scanner;
 import  static Modification.task5_M.DrinksM.*;
-import static jdk.nashorn.internal.objects.NativeString.toUpperCase;
 
 public class AppM {
     public static void main(String[] args) {

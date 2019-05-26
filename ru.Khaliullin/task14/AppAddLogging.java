@@ -1,21 +1,25 @@
 package task14;
 
-import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.apache.log4j.Logger;
+import org.apache.log4j.Priority;
+
+import java.io.FileNotFoundException;
+//import java.util.Scanner;
+//import java.util.logging.Level;
+//import java.util.logging.Logger;
 
 import static jdk.nashorn.internal.objects.NativeString.toUpperCase;
 import static task14.DrinksAddLogging.*;
 
 public class AppAddLogging {
-    private static final Logger logger = Logger.getLogger(AppAddLogging.class.getName());
+    //private static final Logger logger = Logger.getLogger(AppAddLogging.class.getName());
 
 
     //----------------------------------------App vendMach--------------------------
     // private static final Logger logger = Logger.getLogger(AppAddLog.class.getName());
 
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         logger.log(Level.INFO ,"Программа включилась!");
 
 
@@ -58,7 +62,7 @@ public class AppAddLogging {
                 break;
             }
         }
-    }
+    }*/
 
     //------------------------------------JUL-----------------------------
     /*public static void main(String[] args) throws FileNotFoundException {
@@ -80,10 +84,11 @@ public class AppAddLogging {
              throw new RuntimeException("Какая-то ошибка");
          }*/
     //------------------------------------log4j-----------------------------
-       /* private static final Logger logger = Logger.getLogger(AppAddL.class);
+       private static final Logger logger = Logger.getLogger(AppAddLogging.class);
 
-        public static void main(String[] args) throws FileNotFoundException {
-            logger.log(Priority.INFO, "Начало работы программы");
+        public static void main(String[] args) { //throws FileNotFoundException {
+            //logger.log(Priority.INFO, "Начало работы программы");
+            logger.info("Начало работы программы");
             try {
                 doSome("значение");
             } catch (Exception e) {
@@ -97,7 +102,7 @@ public class AppAddLogging {
             logger.info("Вызван метод doSome с параметром <" + value + ">");
             logger.warn("сейчас будет ошибка");
             throw new RuntimeException("Какая-то ошибка");
-        }*/
+        }
 
 
 }

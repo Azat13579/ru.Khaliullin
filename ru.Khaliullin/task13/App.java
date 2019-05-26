@@ -1,10 +1,11 @@
 package task13;
 
 import org.apache.log4j.Logger;
-
-import java.io.BufferedReader;
+import org.apache.log4j.spi.LoggerFactory;
 import java.io.IOException;
-import java.io.InputStreamReader;
+
+
+
 import static task13.Foods.*;
 
 public class App {

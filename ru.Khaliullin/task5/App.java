@@ -12,18 +12,18 @@ public class App {
 
         Drinks[] drink = new Drinks[] {COCA, FANTA, SPRITE, KOFFIE,JUICE};
 
-        VengingMachine vm= new VengingMachine(drink);
+        VengingMachine vm = new VengingMachine(drink);
         for (;;) {
-    vm.ShowMenu();
+            vm.ShowMenu();
 
-    Scanner scanner = new Scanner(System.in);
-    System.out.print("Внесите деньги: ");
-    int userMoney = scanner.nextInt();
-    System.out.println("Выберете напиток, используя номер напитка:");
-    int userСhoice = scanner.nextInt();
+            Scanner scanner = new Scanner(System.in);
+            System.out.print("Внесите деньги: ");
+            int userMoney = scanner.nextInt();
+            System.out.println("Выберете напиток, используя номер напитка:");
+            int userСhoice = scanner.nextInt();
 
-    //double retirement = vm.giveMeADrink(userСhoice, userMoney);
-    //vm.addMoney(retirement);
+            double retirement = vm.giveMeADrink(userСhoice, userMoney);
+            vm.addMoney(retirement);
 
             System.out.println("Что бы завершить работу нажмите кнопку X[EN]");
             Scanner scanner1 = new Scanner(System.in);

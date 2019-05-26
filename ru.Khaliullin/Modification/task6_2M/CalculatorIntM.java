@@ -8,7 +8,6 @@ public class CalculatorIntM implements CalculatorM{
         return z;
     }
 
-
     public static int sub(int x, int y){
         int z = 0;
         z =  x - y;
@@ -32,4 +31,5 @@ public class CalculatorIntM implements CalculatorM{
         z = (x * y) / 100;
         return z;
     }
-   }
+
+}
