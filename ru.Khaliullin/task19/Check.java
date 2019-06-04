@@ -25,7 +25,8 @@ public class Check {
                 double d;
                 double d1;
                 double count;
-                String s;
+                String s = null;
+                int i=0;
                 if(scanner.hasNextDouble()
                 ){
                     d = scanner.nextDouble();
@@ -36,10 +37,15 @@ public class Check {
                     pw.format("%10.1f %1s  %5.1f %11.1f %n", d1, "x", d, count);
 
                 }else if(scanner.hasNext()){
-                    String s0 = scanner.nextLine();
                     s = scanner.nextLine();
+                    if (("").equals(s)){
+                        i++;
+                        //System.out.println(i);
+                    }else {
 
-                    pw.format("%15s", s);
+                        pw.format("%15s", s);
+                    }
+
 
                 }
 
