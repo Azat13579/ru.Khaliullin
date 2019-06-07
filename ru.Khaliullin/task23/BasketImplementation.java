@@ -1,9 +1,6 @@
 package task23;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class BasketImplementation implements Basket {
 
@@ -22,13 +19,11 @@ public class BasketImplementation implements Basket {
 
     @Override
     public void removeProduct(String product) {
-       int iRP = bIString.indexOf(product);
+        int iRP = bIString.indexOf(product);
         bIString.remove(iRP);
         bIInteger.remove(iRP);
         i--;
     }
-
-
 
 
     @Override
@@ -36,9 +31,9 @@ public class BasketImplementation implements Basket {
         int iuRQ = bIString.indexOf(product);
         int iuRQ2 = bIInteger.indexOf(quantity);
 
-        if(iuRQ == iuRQ2){
+        if (iuRQ == iuRQ2) {
             System.out.println("Элементы на одном уровне:");
-        }else{
+        } else {
             System.out.println("Элементы на разных уровнях:");
         }
 
@@ -50,15 +45,16 @@ public class BasketImplementation implements Basket {
         int selectionOfChangeable = scan.nextInt();
         String ss1;
         Integer q;
-        if(selectionOfChangeable == 1){
-             System.out.println("Введите новое название продукта, в замен " + product);
+        if (selectionOfChangeable == 1) {
+            System.out.println("Введите новое название продукта, в замен " + product);
             Scanner scan1 = new Scanner(System.in);
-             ss1 = scan1.nextLine();  // TODO не могу понять почем не работает, когда пишем просто \scan\
-             this.bIString.remove(iuRQ);
-             this.bIString.add(iuRQ, ss1);
-        }else if(selectionOfChangeable == 2){
+            ss1 = scan1.nextLine();  // TODO не могу понять почему не работает, когда пишем просто \scan\
+            this.bIString.remove(iuRQ);
+            this.bIString.add(iuRQ, ss1);
+        } else if (selectionOfChangeable == 2) {
             System.out.println("Введите новое колличество продукта, в замен " + quantity);
-            q = scan.nextInt();
+            Scanner scan1 = new Scanner(System.in);
+            q = scan1.nextInt();
             this.bIInteger.remove(iuRQ2);
             this.bIInteger.add(iuRQ2, q);
         }
@@ -67,10 +63,21 @@ public class BasketImplementation implements Basket {
 
     @Override
     public void clear() {
-        for(int i1=i; i1<0; i1--) {
-            bIString.remove(i1);
-            bIInteger.remove(i1);
+
+        /*Iterator<String> it = bIString.iterator();
+        Iterator<Integer> it1 = bIInteger.iterator();
+        while (it.hasNext()) {
+            it.remove();
+            //it1.remove();
+
+        }*/
+       // boolean hg = bIString.removeAll(String);
+        for (int i3 = i-1; i3 > -1; i3--) {
+            bIString.remove(i3);
+            bIInteger.remove(i3);
         }
+
+
     }
 
     @Override
@@ -81,6 +88,6 @@ public class BasketImplementation implements Basket {
     @Override
     public int getProductQuantity(String product) {
         int gGRQ = bIString.indexOf(product);
-        return  bIInteger.get(gGRQ);
+        return bIInteger.get(gGRQ);
     }
 }

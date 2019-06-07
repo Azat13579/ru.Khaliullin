@@ -25,7 +25,8 @@ public class Use23 {
 
         System.out.println(bi.getProducts());
         bi.clear();
-    }
+        System.out.println(bi.getProducts());
 
+    }
 
 }
