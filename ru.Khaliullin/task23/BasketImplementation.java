@@ -23,6 +23,7 @@ public class BasketImplementation implements Basket {
         bIString.remove(iRP);
         bIInteger.remove(iRP);
         i--;
+
     }
 
 
@@ -45,7 +46,7 @@ public class BasketImplementation implements Basket {
         int selectionOfChangeable = scan.nextInt();
         String ss1;
         Integer q;
-        if (selectionOfChangeable == 1) {
+         if (selectionOfChangeable == 1) {
             System.out.println("Введите новое название продукта, в замен " + product);
             Scanner scan1 = new Scanner(System.in);
             ss1 = scan1.nextLine();  // TODO не могу понять почему не работает, когда пишем просто \scan\
@@ -53,8 +54,8 @@ public class BasketImplementation implements Basket {
             this.bIString.add(iuRQ, ss1);
         } else if (selectionOfChangeable == 2) {
             System.out.println("Введите новое колличество продукта, в замен " + quantity);
-            Scanner scan1 = new Scanner(System.in);
-            q = scan1.nextInt();
+            Scanner scan2 = new Scanner(System.in);
+            q = scan2.nextInt();
             this.bIInteger.remove(iuRQ2);
             this.bIInteger.add(iuRQ2, q);
         }
@@ -63,19 +64,13 @@ public class BasketImplementation implements Basket {
 
     @Override
     public void clear() {
-
-        /*Iterator<String> it = bIString.iterator();
-        Iterator<Integer> it1 = bIInteger.iterator();
-        while (it.hasNext()) {
-            it.remove();
-            //it1.remove();
-
-        }*/
+        bIString.clear();
+        bIInteger.clear();
        // boolean hg = bIString.removeAll(String);
-        for (int i3 = i-1; i3 > -1; i3--) {
+        /*for (int i3 = i-1; i3 > -1; i3--) {
             bIString.remove(i3);
             bIInteger.remove(i3);
-        }
+        }*/
 
 
     }
