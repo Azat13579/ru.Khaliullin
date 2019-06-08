@@ -50,9 +50,9 @@ public class Use20 {
                  objectMapper.writeValue(new File("characterFile1.json"), f8);
 
                  System.out.println(f8.name);
+                 System.out.println(f8.url);
 
-                 objectMapper.writeValue(System.out, f8.status);
-
+                 objectMapper.writeValue(System.out, f8.gender);
              }
 
          } catch (IOException e) {

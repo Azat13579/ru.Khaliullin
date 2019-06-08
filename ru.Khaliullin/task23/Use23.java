@@ -21,7 +21,10 @@ public class Use23 {
         bi.addProduct("Ад", 777);
         bi.addProduct("Маленький котенок Сатаны", 77);
 
-        bi.updateProductQuantity("Сатана", 507);
+
+        System.out.println(bi.getProductQuantity("Сатана"));
+        bi.updateProductQuantity("Сатана", 550);
+        System.out.println(bi.getProductQuantity("Сатана"));
 
         System.out.println(bi.getProducts());
         bi.clear();

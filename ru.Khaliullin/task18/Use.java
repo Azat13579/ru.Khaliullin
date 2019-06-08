@@ -12,10 +12,11 @@ public class Use {
 
         Codec[] codec = new Codec[]{UTF8, WINDOWS1251, KOI8};
 
-        encoder.choiceEncoder();
-        int userChoiceForSave = userСhoice();
+        encoder.choiceEncoder(); // вывод списка форматов
+        int userChoiceForSave = userСhoice(); // 1 выбор  формата пользователем
         System.out.println("Вы выбрали кодер № " + userChoiceForSave  + "!");
 
+        //вводим данные с консоли и сохраняем в файл allFormatFile в выбранном пользователем формате
         File allFormatFile = new File("allFormatFile.txt");
         try(OutputStream os = new FileOutputStream(allFormatFile)){
             System.out.println("Введите текст который вы хотите сохранить в файле: ");
@@ -24,13 +25,15 @@ public class Use {
             os.write(s1.getBytes(codec[userChoiceForSave-1].getNameCod()));
         }
 
+        // вывод на консоль размера  файла с данными занимаемой в прамяти
         Path path = allFormatFile.toPath();
         System.out.println(Files.size(path));
 
-        encoder.choiceEncoder();
-        int userChoiceForLoadAndSave  = userСhoice();
+        encoder.choiceEncoder(); // вывод списка форматов
+        int userChoiceForLoadAndSave  = userСhoice();// 2 выбор формата пользователем
         System.out.println("Вы выбрали кодер № " + userChoiceForLoadAndSave   + "!");
 
+        //чтение данных с файла allFormatFile и сохранение в новом файле в формате 2
         encoder.transformation(userChoiceForLoadAndSave, allFormatFile, userChoiceForSave);
     }
 

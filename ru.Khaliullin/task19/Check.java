@@ -8,10 +8,8 @@ import java.util.Scanner;
 public class Check {
     public void search() throws IOException {
 
-        File file1 = new File("D:\\Обучение\\IdeaProjects2test\\ru.Khaliullin\\" +
-                "ru.Khaliullin\\task19\\products.txt");
-        File file2 = new File("D:\\Обучение\\IdeaProjects2test\\ru.Khaliullin\\" +
-                "ru.Khaliullin\\task19\\out.txt");
+        File file1 = new File("task19\\products.txt");  //
+        File file2 = new File("task19\\out.txt");  //
 
         try (FileReader fr = new FileReader(file1);
              Scanner scanner = new Scanner(fr); PrintWriter pw = new PrintWriter (file2);
@@ -82,8 +80,6 @@ public class Check {
         }
 
         DecimalFormat dm = new DecimalFormat(pattern);
-        String number = dm.format (count);
-        System.out.println(number);
-        return number;
+        return dm.format (count);
     }
 }

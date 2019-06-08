@@ -2,13 +2,14 @@ package task20;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.CharBuffer;
 
-@JsonAutoDetect
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class CharacterFromTheWorldOfRicaAndMortality {
     int id;
     String name;
@@ -16,12 +17,8 @@ public class CharacterFromTheWorldOfRicaAndMortality {
     String species;
     String type;
     String gender;
-    String origin;
-    String location;
-    String image;
-    String episode;
     String  url;
-    String created;
+
 
     public CharacterFromTheWorldOfRicaAndMortality() {
 
@@ -84,55 +81,15 @@ public class CharacterFromTheWorldOfRicaAndMortality {
     public void setGender(String gender) {
         this.gender = gender;
     }
-    @JsonIgnore
-    public String getOrigin() {
-        return origin;
-    }
-    @JsonIgnore
-    public void setOrigin(String origin) {
-        this.origin = origin;
-    }
-    @JsonIgnore
-    public String getLocation() {
-        return location;
-    }
-    @JsonIgnore
-    public void setLocation(String location) {
-        this.location = location;
-    }
 
-    @JsonIgnore
-    public String getImage() {
-        return image;
-    }
-    @JsonIgnore
-    public void setImage(String image) {
-        this.image = image;
-    }
-    @JsonIgnore
-    public String getEpisode() {
-        return episode;
-    }
-    @JsonIgnore
-    public void setEpisode(String episode) {
-        this.episode = episode;
-    }
-    @JsonIgnore
     public String getUrl() {
         return url;
     }
-    @JsonIgnore
+
     public void setUrl(String url) {
         this.url = url;
     }
-    @JsonIgnore
-    public String getCreated() {
-        return created;
-    }
-    @JsonIgnore
-    public void setCreated(String created) {
-        this.created = created;
-    }
+
 
     @Override
     public String toString() {
@@ -143,12 +100,7 @@ public class CharacterFromTheWorldOfRicaAndMortality {
                 ", species='" + species + '\'' +
                 ", type='" + type + '\'' +
                 ", gender='" + gender + '\'' +
-                ", origin='" + origin + '\'' +
-                ", location='" + location + '\'' +
-                ", image='" + image + '\'' +
-                ", episode='" + episode + '\'' +
                 ", url='" + url + '\'' +
-                ", created='" + created + '\'' +
                 '}';
     }
 }

@@ -15,22 +15,16 @@ import static java.lang.Integer.parseInt;
 public class Use22 {
     public static void main(String[] args) throws IOException {
 
-        /*List<Person> people = new ArrayList<>();
-        people.add(new Person("Tom", 37));
-        people.add(new Person("Nick", 34));
-        people.add(new Person("Alice", 33));
-        people.add(new Person("Bill", 35));*/
-
-
         List<PersonSimple> peopleSimple = new ArrayList<>();
         peopleSimple.add(new PersonSimple("Tom", 37));
         peopleSimple.add(new PersonSimple("Nick", 34));
         peopleSimple.add(new PersonSimple("Alice",33));
         peopleSimple.add(new PersonSimple("Bill",35));
+        peopleSimple.add(new PersonSimple("Tom",35));
 
         displayUpTo(peopleSimple);
 
-        int n = userСhoice();
+       int n = userСhoice();
 
         sortSelection(peopleSimple, n);
 

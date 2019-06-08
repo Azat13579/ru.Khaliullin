@@ -23,56 +23,21 @@ public class BasketImplementation implements Basket {
         bIString.remove(iRP);
         bIInteger.remove(iRP);
         i--;
-
     }
 
 
     @Override
     public void updateProductQuantity(String product, int quantity) {
         int iuRQ = bIString.indexOf(product);
-        int iuRQ2 = bIInteger.indexOf(quantity);
 
-        if (iuRQ == iuRQ2) {
-            System.out.println("Элементы на одном уровне:");
-        } else {
-            System.out.println("Элементы на разных уровнях:");
-        }
-
-        System.out.println("iuRQ = " + iuRQ);
-        System.out.println("iuRQ2 = " + iuRQ2);
-        System.out.println("- - - - - - - - - - - - - - - - - ");
-        System.out.println("Выберете что вы хотите заменить, название продукта №1 или его колличество №2: ");
-        Scanner scan = new Scanner(System.in);
-        int selectionOfChangeable = scan.nextInt();
-        String ss1;
-        Integer q;
-         if (selectionOfChangeable == 1) {
-            System.out.println("Введите новое название продукта, в замен " + product);
-            Scanner scan1 = new Scanner(System.in);
-            ss1 = scan1.nextLine();  // TODO не могу понять почему не работает, когда пишем просто \scan\
-            this.bIString.remove(iuRQ);
-            this.bIString.add(iuRQ, ss1);
-        } else if (selectionOfChangeable == 2) {
-            System.out.println("Введите новое колличество продукта, в замен " + quantity);
-            Scanner scan2 = new Scanner(System.in);
-            q = scan2.nextInt();
-            this.bIInteger.remove(iuRQ2);
-            this.bIInteger.add(iuRQ2, q);
-        }
-
+        this.bIInteger.remove(iuRQ);
+        this.bIInteger.add(iuRQ, quantity);
     }
 
     @Override
     public void clear() {
         bIString.clear();
         bIInteger.clear();
-       // boolean hg = bIString.removeAll(String);
-        /*for (int i3 = i-1; i3 > -1; i3--) {
-            bIString.remove(i3);
-            bIInteger.remove(i3);
-        }*/
-
-
     }
 
     @Override
